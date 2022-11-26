@@ -1,0 +1,208 @@
+body {
+    margin: 0%;
+    font-family: Montserrat;
+    background-color: #EEF1FF;
+    text-align: center;
+}
+
+.logo {
+    width: 70px;
+    position: fixed;
+    right: 94.5%;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+.logo:hover{
+    transform: rotateY(360deg);
+    transition-duration: 2s;
+}
+.myname {
+    text-align: center;
+    background-color: transparent;
+    color: #645CAA;
+    top: 0%;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    margin-top: 0%;
+    margin-bottom: 8px;
+    padding: 15px;
+}
+
+#name {
+    font-size: 2.25em;
+}
+
+#bio {
+    font-size: 1.25em;
+}
+
+p {
+    margin-top: 8px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+}
+
+.moon:hover{
+    transform:rotate(360deg);
+    transition-duration: 3s;
+}
+
+.moon {
+    position: relative;
+    top: 30px;
+    left: 150px;
+    margin-bottom: 200px;
+}
+
+
+.asteoridorangegreen {
+    display: inline-block;
+    position: relative;
+    right: 700px;
+    bottom: 250px;
+
+}
+.asteoridorangegreen:hover{
+    transform:scale(150%);
+    transition-duration: 1s;
+}
+
+.asteoridorangegreen2 {
+    display: inline-block;
+    position: relative;
+    left: 200px;
+    bottom: 600px;
+}
+
+.asteoridorangegreen2:hover{
+    transform:scale(150%);
+    transition-duration: 1s;
+}
+#asteoridog {
+    width: 150px;
+}
+
+#asteoridog2 {
+    width: 150px;
+}
+
+.myimage {
+    width: 100px;
+}
+
+.myimage:hover {
+    transform: scale(130%);
+    transition-duration: 1s;
+}
+
+.skills-icon {
+    width: 70px;
+}
+
+.communicate-icon {
+    width: 70px;
+}
+
+.middlecontainer {}
+
+.bottomcontainer {}
+
+.profile {
+    width: 50%;
+    margin: auto;
+}
+
+.skills {
+    width: 50%;
+    margin: auto;
+}
+.hobbies{
+    width: 50%;
+    margin: auto;
+}
+.contact-me {
+    width: 50%;
+    margin: auto;
+}
+
+hr{
+    border-style: none;
+    border-top: dotted;
+    border-width: 10px;
+    width: 80px;
+    height: 0px;
+    border-color: #B1B2FF;
+    margin: 30px auto 30px auto;
+}
+
+.hobbies-icon {
+    width: 70px;
+}
+
+.spark-logo {
+    width: 80px;
+    float: left;
+
+}
+
+.spark-desc {
+    margin-top: 30px;
+}
+
+span{
+    color: #645CAA;
+    font-size: 20px;
+}
+
+.skincare-icon{
+    float: right;
+    position: relative;
+    bottom: 20px;
+    right: 60px;
+}
+
+.cooking-icon{
+    width: 70px;
+    float: left;
+}
+
+.cooking-desc{
+    margin-top: 40px;
+}
+
+.code-icon{
+    width: 70px;
+    float: right;
+}
+
+.code-desc{
+    margin-top: 30px;
+}
+
+.linkedin {
+    width: 50px;
+    margin: 8px;
+}
+
+.github {
+    width: 50px;
+    margin: 8px; 
+}
+
+.gmail {
+    width: 50px;
+    margin: 8px;
+}
+
+.footer-name {
+    margin-top: 20px;
+}
+
+.project-desc {
+    width: 50%;
+    margin: auto;
+}
